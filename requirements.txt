@@ -1,0 +1,11 @@
+numpy
+pandas
+odfpy
+scikit-learn
+matplotlib
+tensorflow
+xgboost
+optuna
+torch
+transformers
+tqdm
